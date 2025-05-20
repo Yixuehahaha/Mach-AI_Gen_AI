@@ -77,6 +77,6 @@ Visit [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## 📄 License
 
-⚠️ This project is currently private and not licensed for commercial or public reuse.
+⚠️ This project is free for **personal, academic, and research use**, but **not licensed for commercial use**.
 
-© 2025 Mach-AI.
+© 2025 Mach-AI. All rights reserved.
